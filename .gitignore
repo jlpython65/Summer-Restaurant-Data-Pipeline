@@ -1,0 +1,8 @@
+# Ignore local secret files
+.env
+.env.*
+!.env.example
+
+# Keep common Python cache files out of git if needed
+__pycache__/
+*.pyc
