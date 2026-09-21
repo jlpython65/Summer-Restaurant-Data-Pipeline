@@ -2,7 +2,18 @@
 .env
 .env.*
 !.env.example
+credentials.json
+token.json
+*.pickle
+*.pkl
+
+# Google OAuth / auth history backups
+.history/
+**/.history/
 
 # Keep common Python cache files out of git if needed
 __pycache__/
 *.pyc
+.venv
+
+
