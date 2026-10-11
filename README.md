@@ -7,7 +7,7 @@ This project is designed to process restaurant receipts and bills using OCR, ext
 
 **IMPORTANT**
 - Parts of this project is not shown to protect proprietary information from the public. 
-- The project is now discontinued due to yielding redundant or unhelpful information. 
+
 
 ## Goal
 
